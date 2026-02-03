@@ -1,0 +1,4 @@
+feedback_id,property_id,timestamp,feedback_type,predicted_value,actual_value,error,deal_outcome,user_confidence,notes,error_pct
+FB_00001,PROP_0001,2025-11-04T13:04:19.659932,actual_sale,850000.0,825000.0,-25000.0,,,Property sold below prediction,-3.0303030303030303
+FB_00002,PROP_0015,2025-11-04T13:04:25.442156,actual_sale,920000.0,945000.0,25000.0,,,Sold above prediction - hot market,2.6455026455026456
+FB_00003,PROP_0032,2025-11-04T13:04:26.082295,deal_closed,675000.0,670000.0,-5000.0,success,,Successful wholesale deal,-0.7462686567164178

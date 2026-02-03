@@ -1,0 +1,21 @@
+{
+  "name": "wholesale-real-estate-ai",
+  "version": "1.0.0",
+  "description": "AI-powered wholesale real estate opportunity analysis platform using XGBoost deep learning",
+  "main": "src/server.py",
+  "scripts": {
+    "dev": "python3 src/server.py",
+    "start": "python3 src/server.py",
+    "generate": "python3 src/generate_data.py",
+    "train": "python3 src/wholesale_model.py",
+    "refresh": "bash scripts/refresh_dashboard.sh"
+  },
+  "keywords": [
+    "real-estate",
+    "wholesale",
+    "xgboost",
+    "machine-learning"
+  ],
+  "author": "",
+  "license": "ISC"
+}
